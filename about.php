@@ -1,7 +1,7 @@
 <?php
 $name = 'Виталий';
 $age = 34;
-$email = 'vitalyglazunow@gmail.com';
+$email = '123@mail.ru';
 $city = 'Москва';
 $about = 'Хотел бы больше узнать информации по программированию на php';
 ?>
